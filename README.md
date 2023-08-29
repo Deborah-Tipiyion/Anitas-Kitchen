@@ -1,22 +1,22 @@
 # Anitas-Kitchen
-Independent Project #4 | Anita's Kitchen Website
+Anita's Kitchen Website
 
 {ANITA'S KITCHEN}
  {August 2023}
 By {Deborah Tipiyion}
 Description
-This is the landing page for a kitchen website. The project is to test the knowledge and skills i have gained in html and css and the ability to create webpages using them. I am supposed to create a webpage similar to this one below;
+This is the landing page for a kitchen website. The project is to test the knowledge and skills i have gained in html and css and the ability to create webpages using them. I am supposed to create a webpage similar to the one povided as the assignment.
 
-Anitas Kitchen (1).jpg
+
 Live link to the website ;https://deborah-tipiyion.github.io/Anitas-Kitchen/
 
 Pre-requisites
-Linux/Windows/MacOS
-Browser
-Github account
-At least 2GB RAM
-At least 3GB ROM
-Visual Studio Code
+Linux/Windows/MacOS,
+Browser,
+Github account,
+At least 2GB RAM,
+At least 3GB ROM,
+Visual Studio Code.
 
 
 Setup/Installation Requirements
