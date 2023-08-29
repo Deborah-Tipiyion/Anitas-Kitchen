@@ -4,7 +4,7 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 .landing-div{
-    background-image: url();
+    background-image: url(landing (1).jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -75,7 +75,7 @@ svg{
     align-items: center;
 }
 .happy-hour-div .happy-hour-fourth2{
-    background: url();
+    background: url(breakfast.jpg);
     width: 25%;
     text-align: center;
     color: #ffffff;
@@ -83,7 +83,7 @@ svg{
     padding: 70px 0 0 0;
 }
 .happy-hour-div .happy-hour-fourth3{
-    background: url();
+    background: url(lunch.jpg);
     width: 25%;
     text-align: center;
     color: #ffffff;
@@ -92,7 +92,7 @@ svg{
     opacity: 0.25;
 }
 .happy-hour-div .happy-hour-fourth4{
-    background: url();
+    background: url(dinner (1).jpg);
     width: 25%;
     text-align: center;
     color: #ffffff;
