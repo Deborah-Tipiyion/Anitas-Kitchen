@@ -1,0 +1,358 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Raleway:wght@300&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+.landing-div{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    height: 540px;
+    align-items: center;
+    align-items: center;
+}
+.landing-div .hidden-image{
+    visibility: hidden;
+}
+.landing-div .logo-image{
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+.landing-div p{
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    position: relative;
+    color: #ffffff;
+}
+.landing-div p strong{
+    font-weight: bolder;
+}
+svg{
+    cursor: pointer;
+    width: 400px;
+    height: 60px;
+    margin-left: 0%;
+    margin-top: 5%;
+    position: relative;
+    color: white;
+}
+
+
+
+.happy-hour-div{
+    width: 100%;
+    height: 220px;
+    display: flex;
+}
+.happy-hour-div .happy-hour-fourth1{
+    width: 25%;
+}
+
+.happy-hour-div .happy-hour-fourth1 .happy-hour-half1{
+    width: 100%;
+    height: 110px;
+    line-height: 105px;
+    background-color: #ffffff;
+    color: #9e9e9e;
+    font-size: 1.5em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.happy-hour-div .happy-hour-fourth1 .happy-hour-half2{
+    width: 100%;
+    height: 110px;
+    font-size: 1.5em;
+    line-height: 105px;
+    background-color: orangered;
+    color: #ffffff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.happy-hour-div .happy-hour-fourth2{
+    background: url();
+    width: 25%;
+    text-align: center;
+    color: #ffffff;
+    font-family: cursive;
+    padding: 70px 0 0 0;
+}
+.happy-hour-div .happy-hour-fourth3{
+    background: url();
+    width: 25%;
+    text-align: center;
+    color: #ffffff;
+    font-family: cursive;
+    padding: 70px 0 0 0;
+    opacity: 0.25;
+}
+.happy-hour-div .happy-hour-fourth4{
+    background: url();
+    width: 25%;
+    text-align: center;
+    color: #ffffff;
+    font-family: cursive;
+    padding: 70px 0 0 0;
+}
+
+
+.images-with-text{
+    width: 70%;
+    height: 400px;
+    display: flex;
+    background-color: #ffffff;
+}
+.images-with-text .images-one{
+    background: #ffffff;
+    width: 49%;
+    color: #000000;
+    align-items: center;
+    margin-top: 30px;
+}
+.images-with-text .images-one img{
+    width: 70%;
+    padding: 5px 5px 5px 5px;
+    position: relative;
+    box-shadow: 0px 0px 5px 2px #9e9e9e;
+}
+.images-with-text .images-one h3{
+    text-align: left;
+}
+.images-with-text .images-one h4{
+    text-align: left;
+}
+.images-with-text .images-one p{
+    text-align: left;
+}
+.images-with-text .images-one a{
+    background: transparent;
+    width: 30%;
+    height: 50px;
+    padding: 10px;
+    padding-right: 16%;
+    color: orangered;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid orangered;
+    outline: none;
+}
+.images-with-text .images-one a svg{
+    width: 70px;
+    height: 20px;
+    color: orangered;
+    position: relative;
+}
+
+.images-with-text .images-two{
+    background: #ffffff;
+    width: 49%;
+    color: #000000;
+    align-items: center;
+    margin-top: 30px;
+}
+.images-with-text .images-two .image-two-images {
+    display: flex;
+}
+.images-with-text .images-two .image-two-images img{
+    height: 320px;
+    width: 50%;
+    padding: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 5px 2px #9e9e9e;
+}
+.images-with-text .images-two h3{
+    text-align: right;
+    width: 90%;
+    padding-right: 40px;
+}
+.images-with-text .images-two h4{
+    text-align: right;
+    width: 90%;
+    padding-right: 40px;
+}
+.images-with-text .images-two p{
+    text-align: right;
+    width: 90%;
+    padding-right: 40px;
+}
+.images-with-text .images-two a{
+    background: transparent;
+    width: 30%;
+    height: 50px;
+    padding: 10px;
+    padding-right: 16%;
+    color: orangered;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid orangered;
+    outline: none;
+}
+.images-with-text .images-two a svg{
+    width: 70px;
+    height: 20px;
+    color: orangered;
+    position: relative;
+}
+
+
+
+.fast-foods-zone{
+    background: url(foodsBg.jpg);
+    opacity: 0.8;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+.fast-foods-zone .food-headers{
+    display: flex;
+    width: 80.8%;
+    height: 90px;
+    justify-content: center;
+    text-align: center;
+    transform: translateY(46px);
+    margin: -20px 0 0 0px;
+}
+.fast-foods-zone .food-headers h3{
+    width: 25%;
+    padding-top: 10px;
+    transform: translateY(0px);
+    background-color: #9e9e9e;
+}
+.fast-foods-zone-div{
+    width: 80%;
+    height: 320px;
+    display: inline-flex;
+    padding-top: 50px;
+    transform: translateY(25px);
+    opacity: 100%;
+    background-color: #ffffff;
+    align-items: center;
+    position: absolute;
+    margin-top: 60px;
+}
+.fast-foods-zone-div .fa-solid {
+    color: orangered;
+    width: 30px;
+    justify-content: center;
+    height: 30px;
+    position: relative;
+    padding-left: 10px;
+     cursor: pointer;
+}
+.fast-foods-zone-div #less-than{
+    padding-left: 10px;
+}
+.fast-foods-zone-images img{
+    margin: 20px;
+    padding-left: 50px;
+}
+.fast-foods-zone-images h3{
+    color: orangered;
+    text-align: center;
+}
+
+
+.cornsilk-div{
+    width: 100%;
+    height: 250px;
+    align-items: center;
+    justify-items: center;
+    background-color: #ffffff;
+    padding: 60px;
+}
+.cornsilk-div .inner-cornsilk-div{
+    width: 80%;
+    background-color: #ffffff;
+    height: 250px;
+    box-shadow: 0px 0px 5px 2px #9e9e9e;
+    display: flex;
+}
+.cornsilk-div .inner-cornsilk-div .happy-customers{
+    display: block;
+    width: 49%;
+}
+.cornsilk-div .inner-cornsilk-div .happy-customers h3{
+    color: orangered;
+}
+.cornsilk-div .inner-cornsilk-div .vertical-divider{
+    width: 1px;
+    height: 80%;
+    margin-top: 25px;
+    background: #9e9e9e;
+}
+.cornsilk-div .inner-cornsilk-div .happy-customers svg{
+    color: orangered;
+    width: 20px;
+    font-weight: bold;
+}
+.cornsilk-div .inner-cornsilk-div .happy-customers img{
+    margin: 10px;
+    cursor: pointer;
+}
+
+.subscribe-area{
+    background: url(subscribe.jpg);
+    height: 200px;
+    padding: 0;
+    margin: 0;
+}
+.subscribe-area p{
+    color: #ffffff;
+    font-size: 1.3em;
+    font-weight: bold;
+    padding-top: 49px;
+    margin: 10px;
+}
+.subscribe-area input{
+    width: 490px;
+    height: 35px;
+    border-radius: 5px;
+    background: #e5e5e5;
+    outline: none;
+    border: none;
+    margin: 0px;
+    color: #162938;
+    opacity: 0.56;
+    font-size: 1.1em;
+}
+::placeholder{
+    color: #162938;
+    font-size: 1.2em;
+}
+.subscribe-area button{
+    cursor: pointer;
+    width: 250px;
+    height: 37px;
+    border-radius: 5px;
+    background: orangered;
+    outline: none;
+    border: none;
+    color: #ffffff;
+    font-size: 1.2em;
+}
+.social-media-zone{
+    width: 100%;
+    background-color: orangered;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.social-media-zone .burger-logo{
+    width: 30px;
+    height: 25px;
+    padding: 10px 0 0 0;
+    position: relative;
+}
+.social-media-zone p{
+    text-align: center;
+}
+.social-media-zone img{
+    margin: 10px;
+}
